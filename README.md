@@ -24,6 +24,5 @@ Desenvolvedor full stack com 3 anos de experiência em gestão de dados e integr
 ## 📫 Como me encontrar:
 
 - LinkedIn: [Felipe Greghi](https://www.linkedin.com/in/felipe-taioque-greghi-8634942b2/)
-- GitHub: [github.com/FelipeGreghi](https://github.com/FelipeGreghi)
 
 Sinta-se à vontade para explorar meus repositórios e colaborar em projetos! 🚀
