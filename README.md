@@ -1,28 +1,28 @@
-# Olá! Eu sou o Felipe Greghi 👋
+# Hello! I'm Felipe Greghi 👋
 
-Desenvolvedor full stack com 3 anos de experiência em gestão de dados e integração, sempre em busca de novos conhecimentos e tecnologias. Tenho uma afinidade especial por comunicação e colaboração em projetos. No meu GitHub, você encontrará projetos que refletem minha paixão por desenvolvimento e aprendizado contínuo.
+Full stack developer with 3 years of experience in data management and integration, always looking for new knowledge and technologies. I have a special affinity for communication and collaboration in projects. In my GitHub, you will find projects that reflect my passion for development and continuous learning.
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies and Tools
 
-- **Linguagens**: JavaScript, TypeScript, Python, C#, Java, PHP
+- **Languages**: JavaScript, TypeScript, Python, C#, Java, PHP
 - **Front-end**: React, HTML5, CSS3, SASS
 - **Back-end**: Node.js, Express, REST APIs
-- **Banco de Dados**: PostgreSQL, MySQL, Oracle, Firebird, SQLServer, SQLAnywhere
-- **Ferramentas**: Git, Docker, Postman, VSCode
+- **Databases**: PostgreSQL, MySQL, Oracle, Firebird, SQLServer, SQLAnywhere
+- **Tools**: Git, Docker, Postman, VSCode
 
-## 🌱 No que estou trabalhando atualmente?
+## 🌱 What am I currently working on?
 
-- Desenvolvimento de APIs e integrações para otimizar fluxos de dados.
-- Flutter para desenvolvimento multiplataforma.
-- Estudo de novas ferramentas para escalabilidade e desempenho em grandes projetos.
+- API development and integrations to optimize data flows.
+- Flutter for cross-platform development.
+- Exploring new tools for scalability and performance in large projects.
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-- Melhorar minhas habilidades em DevOps e Cloud Computing.
-- Contribuir mais para projetos open source.
+- Improve my skills in DevOps and Cloud Computing.
+- Contribute more to open-source projects.
 
-## 📫 Como me encontrar:
+## 📫 How to reach me:
 
 - LinkedIn: [Felipe Greghi](https://www.linkedin.com/in/felipe-taioque-greghi-8634942b2/)
 
-Sinta-se à vontade para explorar meus repositórios e colaborar em projetos! 🚀
+Feel free to explore my repositories and collaborate on projects! 🚀
