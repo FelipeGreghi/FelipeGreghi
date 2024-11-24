@@ -4,7 +4,7 @@ Full stack developer with 3 years of experience in data management and integrati
 
 ## 🚀 Technologies and Tools
 
-- **Languages**: JavaScript, TypeScript, Python, C#, Java, PHP
+- **Languages**: JavaScript, TypeScript, Python, C#, Java, PHP, GoLang
 - **Front-end**: React, HTML5, CSS3, SASS
 - **Back-end**: Node.js, Express, REST APIs
 - **Databases**: PostgreSQL, MySQL, Oracle, Firebird, SQLServer, SQLAnywhere
